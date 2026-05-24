@@ -1,4 +1,4 @@
-# Hey, I'm Eric Renato 👋🎤
+# Hey, I'm Eric Renato
 
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
