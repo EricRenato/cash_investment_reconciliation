@@ -38,7 +38,8 @@ built as part of my MBA in Fundamentos de Estatística at USP/ESALQ.
 
 ---
 
-### 🏦 CDI Contract Reconciliation Model *(coming soon)*
+### 🏦 [cash_investment_reconciliation]
+(https://github.com/EricRenato/cash_investment_reconciliation) *(coming soon)*
 Oracle SQL model that automates the validation of CDI investment contracts —
 replicating the daily accrual calculation and comparing against bank statements.
 Built from real-world experience in corporate treasury systems.
