@@ -63,7 +63,7 @@ Built from real-world experience in corporate treasury systems.
 | Corporate Financial Systems | 15+ years (Oracle, ERP, Treasury) |
 | SQL & Data Investigation | Daily use — Oracle PL/SQL |
 | Financial Reconciliation | CDI, IPCA, FX contracts |
-| ETL Pipeline Troubleshooting | SOA integrations, data lineage |
+| Data Lineage Investigation | Tracing data flow across Oracle, SOA and ERP systems |
 | Statistical Analysis | MBA USP/ESALQ — in progress |
 
 ---
